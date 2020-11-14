@@ -1,29 +1,22 @@
 # Tuck-ReadMe-Gen README
-
-## Requirements
-
-
-## Files & directories
-
-* index&#46;js
-
-* README&#46;md
-
-
-## Links
-
-#####[Link to webpage](https://jamesjtuckbc.github.io/Tuck-Weather-Dashboard/)
-#####[Link to repo](https://github.com/jamesjtuckbc/Tuck-Weather-Dashboard)
-### Pages
-
-#### index.html
-![index.html](assets/weather-dashboard.png)
-
+![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)
+## Description
+This is a README generator that is used via the Command Line interface via Node.js.  Using this generator you will end up with a high quailty ReadMe that includes:
+## Table of Contents
+[Installation](#Installation)
+[Usage](#Usage)
+[License](#License)
+[Contributing](#Contributing)
+[Tests](#Tests)
+[Questions](#Questions)
+## Installation
+npm i
+## Usage
+need screenshots and video/gif of usage
 ## License
-
 MIT License
 
-Copyright (c) 2020 Jorgen Tuck
+Copyright (c) 2020 James Tuck
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -42,7 +35,9 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
-- - -
-
-© 2020 Jorgen Tuck
+## Contributing
+enter and contribution info
+## Tests
+yep
+## Questions
+Please reach-out to me on [GitHub](www.github.com/jamesjtuckbc) or email me at: [jamesjtuck@gmail.com](mailto:jamesjtuck@gmail.com)
