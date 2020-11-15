@@ -2,6 +2,10 @@ const inquirer = require('inquirer');
 const fs = require('fs');
 const li = require('./li');
 
+const year = new Date().getFullYear()
+const ui = new inquirer.ui.BottomBar();
+
+ui.log.write('add line breaks with <br/>')
 
 inquirer.prompt([
     {
@@ -106,7 +110,10 @@ ${test}
 
 ## Questions
 
-Please reach-out to me on [GitHub](http://www.github.com/${gitHub}) or email me at: [${email}](mailto:${email})`;
+Please reach-out to me on [GitHub](http://www.github.com/${gitHub}) or email me at: [${email}](mailto:${email})
+
+---
+© ${year} ${name}`;
 
         fs.writeFile(filename, fileContent, (err) =>
             err ? console.log(err) : console.log('Success!')

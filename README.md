@@ -75,3 +75,6 @@ SOFTWARE.
 
 ## Questions
 Please reach-out to me on [GitHub](http://www.github.com/jamesjtuckbc) or email me at: [jamesjtuck@gmail.com](mailto:jamesjtuck@gmail.com)
+
+---
+© 2020 Jorgen Tuck
