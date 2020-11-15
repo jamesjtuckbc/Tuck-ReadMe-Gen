@@ -62,7 +62,7 @@ inquirer.prompt([
 ])
     .then((data) => {
         const filename = `./READMEs/${data.projectTitle}.md`;
-        const userName = data.name;
+        const userName = data.userName;
         const description = data.description;
         const instaInstr = data.instaInstr;
         const usage = data.usage;
@@ -113,7 +113,7 @@ ${test}
 Please reach-out to me on [GitHub](http://www.github.com/${gitHub}) or email me at: [${email}](mailto:${email})
 
 ---
-© ${year} ${name}`;
+© ${year} ${userName}`;
 
         fs.writeFile(filename, fileContent, (err) =>
             err ? console.log(err) : console.log('Success!')
