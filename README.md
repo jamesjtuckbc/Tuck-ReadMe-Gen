@@ -35,7 +35,7 @@ Run the application
 `node index.js`
 
 ## Usage
-
+[Video Walkthrough](https://drive.google.com/file/d/1Y4yxB5a0U0I5_D1E2_p6crF14OqxbPnK/view)
 Once you have ran the command `node index.js` from the `..\Tuck-ReadMe-Gen\` folder you will recieve a series of prompts:
 <pre><code>Name
 Project
